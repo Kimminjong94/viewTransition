@@ -4,6 +4,7 @@
 //
 //  Created by 김민종 on 2021/08/08.
 //  learning commit
+//story board changed
 
 import Foundation
 
@@ -12,4 +13,5 @@ class UserInformation {
     
     var name: String?
     var age: String?
+    var tall: Int?
 }
