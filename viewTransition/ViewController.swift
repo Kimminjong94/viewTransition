@@ -23,5 +23,8 @@ class ViewController: UIViewController {
     }
 
 override var overrideUserInterfaceStyle: UIUserInterfaceStyle
+    
+    
+    override var overrideUserInterfaceStyle: UIUserInterfaceStyle
 }
 
